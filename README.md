@@ -1,3 +1,8 @@
+Cybersecurity content:
+
+https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY
+
+
 Michał Sołtysik - Deep packet inspection analyses - why the typical approach is not enough (ENG):
 
 Title of the lecture: Deep packet inspection analyses: why the typical approach is not enough.
