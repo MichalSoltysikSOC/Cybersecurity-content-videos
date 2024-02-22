@@ -1,4 +1,4 @@
-Cybersecurity content:
+Cybersecurity content (in English and Polish):
 
 https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY
 
