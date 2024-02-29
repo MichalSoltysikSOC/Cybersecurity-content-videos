@@ -114,3 +114,5 @@ Contact:
 Mail: mikewavepoland@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/
+
+Accredible: https://www.credential.net/profile/michalsoltysik/wallet
