@@ -35,6 +35,62 @@ Click to watch on YouTube:
 
 [![Michał Sołtysik - Deep packet inspection analyses - why the typical approach is not enough (ENG)](https://i1.ytimg.com/vi/SgrgnwtIT50/mqdefault.jpg)](https://www.youtube.com/embed/_ulFvQ1z7j8)
 
+
+Michał Sołtysik - Deep Packet Inspection Analysis - Examining One Packet Killers (ENG):
+
+Title of the lecture: Deep Packet Inspection Analysis: Examining One Packet Killers.
+
+Description of the lecture: Security Operations Center (SOC) teams monitor network traffic using SIEM and IPS solutions, along with other security tools. However, these tools can sometimes fall short in their capability, particularly when faced with complex attacks that exploit legitimate network protocols, such as a single, crafted packet. To combat these threats, SOC teams must adopt advanced techniques such as Deep Packet Inspection (DPI). The webinar explores DPI analysis techniques to detect and mitigate "One Packet Killers", using real-world examples from DHCP, H.225.0, Modbus over TCP, WTP, and BAT_GW protocols. Furthermore, it examines the intricacies of each protocol and highlights how specific message manipulations within these protocols can activate Denial-of-Service (DoS) attacks or disrupt communication flows. By mastering DPI techniques and addressing these protocol security weaknesses, SOC teams can enhance their ability to maintain a robust network security posture.
+
+Content:
+
+Opening words
+
+Why IPS, WAF, and SIEM solutions are not enough.
+
+Summary of the need for deep packet inspection analysis.
+
+The four main categories of weaknesses/vulnerabilities.
+
+DoS Attack Categories.
+
+One Packet Killer via a vulnerability (CVE-2021-45105).
+
+One Packet Killer via a weak protocol design in DHCP.
+
+One Packet Killer via a weak protocol design in Modbus over TCP.
+
+One Packet Killer via a weak protocol design in WTP.
+
+One Packet Killer via a weak protocol design in BAT_GW.
+
+One Packet Killer via a weak protocol design in H.225.0.
+
+Findings (a breakdown of the possibilities and limitations behind functionalities within protocols which can be misused for DoS attacks under specific circumstances).
+
+Protocol-based DoS Attacks.
+
+DoS Attacks: Classification and Protocol Weakness Examples.
+
+Some possible reasons why an attacker might send a single such packet ('One Packet Killer').
+
+Conclusions of the webinar.
+
+Recommendations on protocol weaknesses.
+
+An example of a 'Silent Killer' using a ubiquitous protocol DNS.
+
+Q&A.
+
+Closing words.
+
+URL: https://www.youtube.com/watch?v=8cX7Fn5AM04
+
+Click to watch on YouTube:
+
+[![Michał Sołtysik - Deep Packet Inspection Analysis - Examining One Packet Killers (ENG)](https://i1.ytimg.com/vi/SgrgnwtIT50/mqdefault.jpg)](https://www.youtube.com/watch?v=8cX7Fn5AM04)
+
+
 Michał Sołtysik - Remcos RAT threat analysis on Windows including IEC 60870-5-104 traffic (ENG):
 
 Title of the lecture: Remcos RAT threat analysis on Windows including, surprisingly enough, IEC 60870-5-104 traffic.
