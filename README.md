@@ -124,7 +124,7 @@ Cybersecurity Analyst & Consultant
 
 Specializing in deep packet inspection (i.e. network edge profiling and 0-day attacks).
 
-To date, he has identified 253 protocols in the IT, OT and IoT areas used for cyber attacks.
+To date, he has identified 254 protocols in the IT, OT and IoT areas used for cyber attacks.
 
 Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer and SOC Trainer.
 
@@ -146,6 +146,8 @@ GNFA - GIAC Network Forensic Analyst
 C)NFE - Certified Network Forensics Examiner
 
 C)DFE - Certified Digital Forensics Examiner
+
+ISO/IEC 27037:2012 - Lead Implementer
 
 WCNA - Wireshark Certified Network Analyst
 
@@ -182,9 +184,14 @@ CCE - Certified Cybersecurity Expert
 CCSS - Certified Cyber Security Specialist
 
 
+Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), Pacific Certifications, Blockchain Council and Global Tech Council.
+
+
 Accredited by ANAB under ISO/IEC 17024.
 
 Accredited by the NSA CNSS 4011-4016.
+
+Accredited by ABIS under ISO/IEC 17011.
 
 Approved by DoD under Directive 8570 (previously) / 8140 (presently).
 
@@ -204,6 +211,8 @@ Official website: https://michalsoltysik.com/
 Mail: me@michalsoltysik.com
 
 LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/
+
+Cybersecurity content: https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY
 
 Accredible: https://www.credential.net/profile/michalsoltysik/wallet
 
