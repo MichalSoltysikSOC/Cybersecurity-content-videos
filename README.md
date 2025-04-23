@@ -61,7 +61,7 @@ URL: https://www.youtube.com/watch?v=_xP7_BnZCts
 
 Click to watch on YouTube:
 
-[![Michał Sołtysik - How Web Protocol Weaknesses Enable Layer 7 DoS Attacks (ENG)](https://i1.ytimg.com/vi/SgrgnwtIT50/mqdefault.jpg)](https://www.youtube.com/watch?v=_xP7_BnZCts)
+[![Michał Sołtysik - How Web Protocol Weaknesses Enable Layer 7 DoS Attacks (ENG)](https://github.com/MichalSoltysikSOC/Cybersecurity-content-videos/blob/main/screenshots/ENG_YouTube_avatar_ECC_CyberTalks_Again.png)](https://www.youtube.com/watch?v=_xP7_BnZCts)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
