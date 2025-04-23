@@ -8,7 +8,7 @@ https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY
 
 Michał Sołtysik - How Web Protocol Weaknesses Enable Layer 7 DoS Attacks (ENG):
 
-
+<br><br>
 
 Title of the lecture: How Web Protocol Weaknesses Enable Layer 7 DoS Attacks.
 
