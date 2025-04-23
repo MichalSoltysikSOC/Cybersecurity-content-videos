@@ -6,6 +6,62 @@ https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Michał Sołtysik - How Web Protocol Weaknesses Enable Layer 7 DoS Attacks (ENG):
+
+Title of the lecture: How Web Protocol Weaknesses Enable Layer 7 DoS Attacks.
+
+Description of the lecture: This presentation delves into the inherent vulnerabilities within the design of web protocols which indirectly expose web pages to Layer 7 Denial-of-Service (DoS) attacks - regardless of the use of modern transport encryption mechanisms (e.g., WTLS, DTLS, TLS 1.2/1.3, or (G)QUIC). We'll meticulously dissect the specific weaknesses of the Internet Cache Protocol (ICP) and explore how it can be weaponized to circumvent security measures. Our analysis will further delve into the vulnerabilities residing within the handshake processes of DTLS, (G)QUIC, TLS 1.2/1.3, and WTLS. This session will provide valuable insights for security professionals and web developers, highlighting the importance of layered security strategies beyond encryption protocols to defend against DoS attacks.
+
+Content:
+
+Opening words.
+
+Introduction to Layer 7 DoS Attacks.
+
+Weak protocol design in ICP.
+
+Weak protocol design in WTLS.
+
+Weak protocol design in DTLS.
+
+Introduction to QUIC Protocol.
+
+QUIC vs. TLS.
+
+GQUIC vs. IETF QUIC.
+
+Weak protocol design in GQUIC.
+
+Weak protocol design in QUIC.
+
+Weak protocol design in TLS (Pre-1.3).
+
+Weak protocol design in TLS 1.3.
+
+Legitimate vs. illegitimate TLS traffic.
+
+TLS DoS Attacks in practice.
+
+Summary of inherent vulnerabilities in Layer 7 DoS Attacks across protocols.
+
+Conclusions on common weaknesses leading to Layer 7 DoS.
+
+Solutions for the need for a fully secure mechanism.
+
+Executing a Layer 7 TLS 1.3 DoS Attack with OpenSSL and Python on Kali Linux.
+
+Q&A.
+
+Closing words.
+
+URL: https://www.youtube.com/watch?v=_xP7_BnZCts
+
+Click to watch on YouTube:
+
+[![Michał Sołtysik - How Web Protocol Weaknesses Enable Layer 7 DoS Attacks (ENG)](https://i1.ytimg.com/vi/SgrgnwtIT50/mqdefault.jpg)](https://www.youtube.com/watch?v=_xP7_BnZCts)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Michał Sołtysik - Deep packet inspection analyses - why the typical approach is not enough (ENG):
 
 Title of the lecture: Deep packet inspection analyses: why the typical approach is not enough.
