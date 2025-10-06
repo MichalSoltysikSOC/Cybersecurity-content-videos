@@ -246,6 +246,8 @@ CCD - Certified CyberDefender
 
 C)ISSO - Certified Information Systems Security Officer
 
+CPTA - Certified Purple Team Analyst
+
 C)PTC - Certified Penetration Testing Consultant
 
 C)PTE - Certified Penetration Testing Engineer
