@@ -196,9 +196,7 @@ Click to watch on YouTube:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Author:
-
-Michał Sołtysik
+Author: Michał Sołtysik
 
 Cybersecurity Consultant and Blue Team, Purple Team, and Red Team Analyst, bringing a broad and in-depth range of expertise to his cybersecurity practice.
 
