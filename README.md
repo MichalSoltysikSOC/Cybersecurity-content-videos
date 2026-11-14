@@ -252,7 +252,7 @@ GCED - GIAC Certified Enterprise Defender
 
 C|ND - Certified Network Defender
 
-CCD - Certified CyberDefender
+CCD & CCCD - Certified CyberDefender
 
 C)ISSO - Certified Information Systems Security Officer
 
